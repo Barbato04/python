@@ -8,7 +8,7 @@ print("--------------------------------------------")
 
 print ("ingrese la velocidad y el tiempo de unidad movil")
 #covirtiendo entrada a entero
-V = float(imput("Velocidad:"))
+V = float(input("Velocidad:"))
 T = int(input("Tiempo:"))
 
 #Proceso
